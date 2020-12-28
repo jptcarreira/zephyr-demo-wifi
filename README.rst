@@ -47,7 +47,7 @@ Connect a terminal to Zephyr Console, and test with this commands.
 	
 	>
 	
-	
+[logo]: https://raw.githubusercontent.com/jptcarreira/zephyr-demo-wifi/master/zephyr-wifi-demo.png "Screenshot"	
 
 
 After a successfull connection it keeps a open socket to send and receive throwght the console.
