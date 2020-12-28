@@ -66,6 +66,7 @@ Building and Running
 ********************
 
 Build and flash Zephyr Demo Wifi as follows, changing ``b_l4s5i_iot01a`` for your board:
+
 .. zephyr-app-commands::
    :zephyr-app: szephyr-demo-wifi
    :board: b_l4s5i_iot01a
