@@ -8,7 +8,6 @@
 #ifndef SRC_WIFI_DEMO_H_
 #define SRC_WIFI_DEMO_H_
 
-
 // Declare demo funtion
 void Wifi_demo(void);
 

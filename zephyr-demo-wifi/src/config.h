@@ -11,10 +11,10 @@
 #define SRC_CONFIG_H_
 
 // Auto join 0 - Disabled, 1 - Enable
-#define AUTO_CONNECT  0
+#define AUTO_CONNECT  		1
 
 // SSID
-#define AUTO_CONNECT_SSID 		"<<SSID>>"
+#define AUTO_CONNECT_SSID 	"<<SSID>>"
 
 // Password
 #define AUTO_CONNECT_SSID_PSK	"<<PSK>>"

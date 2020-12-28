@@ -10,8 +10,6 @@
  *
  */
 
-#define CONFIG_NET_NATIVE_IPV4 1
-
 #include <stdio.h>
 
 #include <zephyr.h>
@@ -28,7 +26,6 @@
 #include <string.h>
 
 #include "config.h"
-
 
 #if AUTO_CONNECT
 #ifndef DT_N_NODELABEL_wifi0
@@ -108,9 +105,8 @@ void Wifi_demo(void)
 {
 
 #if AUTO_CONNECT
-	Wifi_init();
+	Wifi_autoconnect();
 #endif
 
 }
-
 
