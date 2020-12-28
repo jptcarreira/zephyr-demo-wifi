@@ -1,6 +1,6 @@
 .. _blinky-sample:
 
-Zephyr Demo Wifi
+Zephyr Demo Wifi and TCP/UDP connection console
 ######
 
 Overview
