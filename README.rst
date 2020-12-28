@@ -15,6 +15,8 @@ It was based on the oficial sample
 It was tested with ``STM32L4+ Discovery kit IoT`` ``B-L4S5I-IOT01A`` from 
 ST Microelectronics.
 
+<https://www.st.com/en/evaluation-tools/b-l4s5i-iot01a.html>
+
 This sample adds to the console commands, to easy test the connectivity.
 
 Usage
