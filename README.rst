@@ -58,8 +58,8 @@ CTRL + D to disconnect the socket.
 Requirements
 ************
 
-A Zephyr development environment configured 
-``(https://docs.zephyrproject.org/latest/getting_started/index.html)``
+A Zephyr development environment configured, see:
+``<https://docs.zephyrproject.org/latest/getting_started/index.html>``
 
 A board with IP connectivity, like B-L4S5I-IOT01A properly configured.
 For WI-FI autoconnect, the expects a if with the label wifi0.
