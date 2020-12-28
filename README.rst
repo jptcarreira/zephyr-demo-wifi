@@ -81,3 +81,8 @@ Build and flash Zephyr Demo Wifi as follows, changing ``b_l4s5i_iot01a`` to your
 After flashing, you should be able to access the console and test the commands.
 
 
+License
+************
+This repository is open-sourced under the Apache-2.0 license.
+For a list of other open-source components included in this repository, see the file 3rd-party-licenses.txt.
+
