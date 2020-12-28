@@ -12,7 +12,7 @@ It can be used with any board with connected interface (ETHERNET, GPRS, etc ), b
 It was based on the oficial sample
 `Wi-Fi Demo <https://docs.zephyrproject.org/latest/samples/net/wifi/README.html>`.
 
-It was tested with  STM32L4+ Discovery kit IoT node (B-L4S5I-IOT01A) from 
+It was tested with ``STM32L4+ Discovery kit IoT`` ``B-L4S5I-IOT01A`` from 
 ST Microelectronics.
 
 This sample adds to the console commands, to easy test the connectivity.
