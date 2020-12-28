@@ -9,7 +9,7 @@ Overview
 This application is simple demo how to connect to Wifi, a  utilitu to test the connectivity.
 It can be used with any board with connected interface (ETHERNET, GPRS, etc ), but not tested.
 
-It was based on the oficial sample [https://docs.zephyrproject.org/latest/samples/net/wifi/README.html](Wi-Fi sample)
+It was based on the oficial sample (https://docs.zephyrproject.org/latest/samples/net/wifi/README.html "Wi-Fi sample")
 
 It was tested with  STM32L4+ Discovery kit IoT node (B-L4S5I-IOT01A) from 
 ST Microelectronics.
