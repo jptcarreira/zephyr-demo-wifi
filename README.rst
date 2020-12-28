@@ -6,8 +6,8 @@ Zephyr Demo Wifi
 Overview
 ********
 
-This application is simple demo how to connect to Wifi, a test connectivity.
-It can used with any connected interface (ETHERNET, GPRS, etc ), but not tested.
+This application is simple demo how to connect to Wifi, a  utilitu to test the connectivity.
+It can be used with any board with connected interface (ETHERNET, GPRS, etc ), but not tested.
 
 It was tested with  STM32L4+ Discovery kit IoT node (B-L4S5I-IOT01A) from 
 ST Microelectronics.
