@@ -68,7 +68,7 @@ For WI-FI autoconnect, the expects a if with the label wifi0.
 Building and Running
 ********************
 
-Build and flash Zephyr Demo Wifi as follows, changing ``b_l4s5i_iot01a`` for your board:
+Build and flash Zephyr Demo Wifi as follows, changing ``b_l4s5i_iot01a`` to your board:
 
 .. zephyr-app-commands::
    :zephyr-app: szephyr-demo-wifi
