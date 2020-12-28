@@ -1,12 +1,12 @@
 .. _blinky-sample:
 
-Zephyr Demo Wifi and TCP/UDP connection console
+Zephyr Demo Wi-Fi and TCP/UDP connection console
 ######
 
 Overview
 ********
 
-This application is simple demo how to connect to Wifi, a  utilitu to test the connectivity.
+This application is simple demo how to connect to Wi-Fi, a  utilitu to test the connectivity.
 It can be used with any board with connected interface (ETHERNET, GPRS, etc ), but not tested.
 
 It was based on the oficial sample
@@ -24,12 +24,12 @@ Connect a terminal to Zephyr Console, and test with this commands.
 
 .. code-block:: none
 
-	// Connect to Wifi, if not connected
-	wifi connect <<SSID>> <<PSK>>
+	// Connect to Wi-Fi, if not connected
+	Wi-Fi connect <<SSID>> <<PSK>>
 	Connection requested
 	Connected
 
-	// Connect to Wifi, if not connected
+	// Connect to Wi-Fi, if not connected
 	>nc tcp <<Ip Adress>> <<Port>>
 	CONNECTED. Use CTRL+D to disconnect.
 	Hello from my board using TCP!
@@ -61,8 +61,8 @@ Requirements
 A Zephyr development environment configured, see:
 `<https://docs.zephyrproject.org/latest/getting_started/index.html>`
 
-A board with IP connectivity, like B-L4S5I-IOT01A properly configured.
-For WI-FI autoconnect, the expects a if with the label wifi0.
+A board with IP connectivity, like ``B-L4S5I-IOT01A`` properly configured.
+For WI-FI autoconnect, the expects a if with the label ``wifi0``.
 
 
 Building and Running
