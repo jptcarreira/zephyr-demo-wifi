@@ -6,7 +6,7 @@ Zephyr Demo Wi-Fi and TCP/UDP connection console
 Overview
 ********
 
-This application is simple demo how to connect to Wi-Fi, a  utilitu to test the connectivity.
+This application is simple demo how to connect to Wi-Fi, a  utility to test the connectivity.
 It can be used with any board with connected interface (ETHERNET, GPRS, etc ), but not tested.
 
 It was based on the oficial sample
