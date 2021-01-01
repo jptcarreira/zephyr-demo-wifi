@@ -49,12 +49,10 @@ Connect a terminal to Zephyr Console, and test with this commands.
 	
 	>
 
-.. image:: https://raw.githubusercontent.com/jptcarreira/zephyr-demo-wifi/master/zephyr-wifi-demo.png
-
-
 After a successfull connection it keeps a open socket to send and receive throwght the console.
 CTRL + D to disconnect the socket.
 
+.. image:: https://raw.githubusercontent.com/jptcarreira/zephyr-demo-wifi/master/zephyr-wifi-demo.png
 
 Requirements
 ************
